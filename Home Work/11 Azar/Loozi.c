@@ -1,8 +1,8 @@
 /*
 --------------------------------------------------
-Name    : 
+Name    : Loozi
 Author  : Danial Khorasanizadeh
-Course  : 
+Course  : Foundations of programmin (Fall 99)
 Date    : 28/Nov/2020
 --------------------------------------------------
 */
