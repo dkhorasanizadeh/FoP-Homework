@@ -7,12 +7,6 @@ Date    : 23/Dec/2020
 --------------------------------------------------
 */
 #include <stdio.h>
-void darmanand(char name1[21], char name2[21])
-{
-    printf("%s to %s: ke ba in dar agar dar bande dar manand, dar manand.\n", name1, name2);
-    printf("%s to %s: dar manand?\n", name2, name1);
-    printf("%s to %s: kdar manand.\n", name1, name2);
-}
 int main(void)
 {
     int n;

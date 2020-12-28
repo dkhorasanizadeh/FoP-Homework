@@ -108,6 +108,7 @@ int main(void)
                 if ((jump_x[position_y][position_x] < 0 || jump_x[position_y][position_x] >= size_x) || (jump_y[position_y][position_x] < 0 || jump_y[position_y][position_x] >= size_y))
                 {
                     printf("Impossible place!\n");
+                    break;
                 }
                 else
                 {
