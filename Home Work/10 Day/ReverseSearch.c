@@ -53,7 +53,7 @@ int main(void)
         {
             stringPointer = (find + size + 1);
         }
-        if (findReverse != NULL && !('a' <= *(findReverse + size) && 'z' >= *(findReverse + size)) && !('a' <= *(findReverse - 1) && 'z' >= *(findReverse - 1)))
+        if (find = NULL && findReverse != NULL && !('a' <= *(findReverse + size) && 'z' >= *(findReverse + size)) && !('a' <= *(findReverse - 1) && 'z' >= *(findReverse - 1)))
         {
             count++;
             stringReversePointer = (findReverse + size + 1);
